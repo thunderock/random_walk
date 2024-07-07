@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# idea files
+.idea/
+
+# Cython debug symbols
+cython_debug/
